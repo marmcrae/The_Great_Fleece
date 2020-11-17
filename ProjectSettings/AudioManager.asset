@@ -3,15 +3,27 @@
 --- !u!11 &1
 AudioManager:
   m_ObjectHideFlags: 0
+<<<<<<< HEAD
+=======
+  serializedVersion: 2
+>>>>>>> 63e10cb4ff0761e5e252914e1eea0a03b574fd2d
   m_Volume: 1
   Rolloff Scale: 1
   Doppler Factor: 1
   Default Speaker Mode: 2
   m_SampleRate: 0
+<<<<<<< HEAD
   m_DSPBufferSize: 0
+=======
+  m_DSPBufferSize: 1024
+>>>>>>> 63e10cb4ff0761e5e252914e1eea0a03b574fd2d
   m_VirtualVoiceCount: 512
   m_RealVoiceCount: 32
   m_SpatializerPlugin: 
   m_AmbisonicDecoderPlugin: 
   m_DisableAudio: 0
   m_VirtualizeEffects: 1
+<<<<<<< HEAD
+=======
+  m_RequestedDSPBufferSize: 1024
+>>>>>>> 63e10cb4ff0761e5e252914e1eea0a03b574fd2d

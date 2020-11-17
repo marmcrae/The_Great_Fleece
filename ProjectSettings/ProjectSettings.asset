@@ -4,7 +4,11 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 20
+<<<<<<< HEAD
   productGUID: 829d42b20eb4376428a7c60599639397
+=======
+  productGUID: 19eeca11f6e2a85428515e227d5ec3ee
+>>>>>>> 63e10cb4ff0761e5e252914e1eea0a03b574fd2d
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -83,7 +87,11 @@ PlayerSettings:
   resizableWindow: 0
   useMacAppStoreValidation: 0
   macAppStoreCategory: public.app-category.games
+<<<<<<< HEAD
   gpuSkinning: 0
+=======
+  gpuSkinning: 1
+>>>>>>> 63e10cb4ff0761e5e252914e1eea0a03b574fd2d
   xboxPIXTextureCapture: 0
   xboxEnableAvatar: 0
   xboxEnableKinect: 0
@@ -105,7 +113,11 @@ PlayerSettings:
   xboxOneDisableEsram: 0
   xboxOneEnableTypeOptimization: 0
   xboxOnePresentImmediateThreshold: 0
+<<<<<<< HEAD
   switchQueueCommandMemory: 1048576
+=======
+  switchQueueCommandMemory: 0
+>>>>>>> 63e10cb4ff0761e5e252914e1eea0a03b574fd2d
   switchQueueControlMemory: 16384
   switchQueueComputeMemory: 262144
   switchNVNShaderPoolsGranularity: 33554432
@@ -124,13 +136,22 @@ PlayerSettings:
     16:10: 1
     16:9: 1
     Others: 1
+<<<<<<< HEAD
   bundleVersion: 1.0
+=======
+  bundleVersion: 0.1
+>>>>>>> 63e10cb4ff0761e5e252914e1eea0a03b574fd2d
   preloadedAssets: []
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
+<<<<<<< HEAD
   xboxOneDisableKinectGpuReservation: 0
   xboxOneEnable7thCore: 0
+=======
+  xboxOneDisableKinectGpuReservation: 1
+  xboxOneEnable7thCore: 1
+>>>>>>> 63e10cb4ff0761e5e252914e1eea0a03b574fd2d
   vrSettings:
     cardboard:
       depthFormat: 0
@@ -144,7 +165,11 @@ PlayerSettings:
       maximumSupportedHeadTracking: 1
     hololens:
       depthFormat: 1
+<<<<<<< HEAD
       depthBufferSharingEnabled: 0
+=======
+      depthBufferSharingEnabled: 1
+>>>>>>> 63e10cb4ff0761e5e252914e1eea0a03b574fd2d
     lumin:
       depthFormat: 0
       frameTiming: 2
@@ -152,8 +177,13 @@ PlayerSettings:
       glCacheMaxBlobSize: 524288
       glCacheMaxFileSize: 8388608
     oculus:
+<<<<<<< HEAD
       sharedDepthBuffer: 0
       dashSupport: 0
+=======
+      sharedDepthBuffer: 1
+      dashSupport: 1
+>>>>>>> 63e10cb4ff0761e5e252914e1eea0a03b574fd2d
       lowOverheadMode: 0
       protectedContext: 0
       v2Signing: 1
@@ -182,8 +212,13 @@ PlayerSettings:
   CreateWallpaper: 0
   APKExpansionFiles: 0
   keepLoadedShadersAlive: 0
+<<<<<<< HEAD
   StripUnusedMeshComponents: 0
   VertexChannelCompressionMask: 214
+=======
+  StripUnusedMeshComponents: 1
+  VertexChannelCompressionMask: 4054
+>>>>>>> 63e10cb4ff0761e5e252914e1eea0a03b574fd2d
   iPhoneSdkVersion: 988
   iOSTargetOSVersionString: 10.0
   tvOSSdkVersion: 0
@@ -228,7 +263,11 @@ PlayerSettings:
   iOSURLSchemes: []
   iOSBackgroundModes: 0
   iOSMetalForceHardShadows: 0
+<<<<<<< HEAD
   metalEditorSupport: 0
+=======
+  metalEditorSupport: 1
+>>>>>>> 63e10cb4ff0761e5e252914e1eea0a03b574fd2d
   metalAPIValidation: 1
   iOSRenderExtraFrameOnPause: 0
   appleDeveloperTeamID: 
@@ -240,6 +279,7 @@ PlayerSettings:
   iOSRequireARKit: 0
   iOSAutomaticallyDetectAndAddCapabilities: 1
   appleEnableProMotion: 0
+<<<<<<< HEAD
   clonedFromGUID: d080eafa942184bef97e99eb60fcd4e8
   templatePackageId: 
   templateDefaultScene: 
@@ -250,6 +290,18 @@ PlayerSettings:
   AndroidKeyaliasName: 
   AndroidBuildApkPerCpuArchitecture: 0
   AndroidTVCompatibility: 1
+=======
+  clonedFromGUID: c0afd0d1d80e3634a9dac47e8a0426ea
+  templatePackageId: com.unity.template.3d@4.2.8
+  templateDefaultScene: Assets/Scenes/SampleScene.unity
+  AndroidTargetArchitectures: 1
+  AndroidSplashScreenScale: 0
+  androidSplashScreen: {fileID: 0}
+  AndroidKeystoreName: 
+  AndroidKeyaliasName: 
+  AndroidBuildApkPerCpuArchitecture: 0
+  AndroidTVCompatibility: 0
+>>>>>>> 63e10cb4ff0761e5e252914e1eea0a03b574fd2d
   AndroidIsGame: 1
   AndroidEnableTango: 0
   androidEnableBanner: 1
@@ -264,11 +316,31 @@ PlayerSettings:
   AndroidAppBundleSizeToValidate: 150
   m_BuildTargetIcons: []
   m_BuildTargetPlatformIcons: []
+<<<<<<< HEAD
   m_BuildTargetBatching: []
+=======
+  m_BuildTargetBatching:
+  - m_BuildTarget: Standalone
+    m_StaticBatching: 1
+    m_DynamicBatching: 0
+  - m_BuildTarget: tvOS
+    m_StaticBatching: 1
+    m_DynamicBatching: 0
+  - m_BuildTarget: Android
+    m_StaticBatching: 1
+    m_DynamicBatching: 0
+  - m_BuildTarget: iPhone
+    m_StaticBatching: 1
+    m_DynamicBatching: 0
+  - m_BuildTarget: WebGL
+    m_StaticBatching: 0
+    m_DynamicBatching: 0
+>>>>>>> 63e10cb4ff0761e5e252914e1eea0a03b574fd2d
   m_BuildTargetGraphicsJobs:
   - m_BuildTarget: MacStandaloneSupport
     m_GraphicsJobs: 0
   - m_BuildTarget: Switch
+<<<<<<< HEAD
     m_GraphicsJobs: 0
   - m_BuildTarget: MetroSupport
     m_GraphicsJobs: 0
@@ -290,6 +362,27 @@ PlayerSettings:
     m_GraphicsJobs: 0
   - m_BuildTarget: CloudRendering
     m_GraphicsJobs: 0
+=======
+    m_GraphicsJobs: 1
+  - m_BuildTarget: MetroSupport
+    m_GraphicsJobs: 1
+  - m_BuildTarget: AppleTVSupport
+    m_GraphicsJobs: 0
+  - m_BuildTarget: BJMSupport
+    m_GraphicsJobs: 1
+  - m_BuildTarget: LinuxStandaloneSupport
+    m_GraphicsJobs: 1
+  - m_BuildTarget: PS4Player
+    m_GraphicsJobs: 1
+  - m_BuildTarget: iOSSupport
+    m_GraphicsJobs: 0
+  - m_BuildTarget: WindowsStandaloneSupport
+    m_GraphicsJobs: 1
+  - m_BuildTarget: XboxOnePlayer
+    m_GraphicsJobs: 1
+  - m_BuildTarget: LuminSupport
+    m_GraphicsJobs: 0
+>>>>>>> 63e10cb4ff0761e5e252914e1eea0a03b574fd2d
   - m_BuildTarget: AndroidPlayer
     m_GraphicsJobs: 0
   - m_BuildTarget: WebGLSupport
@@ -300,10 +393,31 @@ PlayerSettings:
   - m_BuildTarget: XboxOnePlayer
     m_GraphicsJobMode: 0
   m_BuildTargetGraphicsAPIs:
+<<<<<<< HEAD
   - m_BuildTarget: MacStandaloneSupport
     m_APIs: 1000000011000000
     m_Automatic: 1
   m_BuildTargetVRSettings: []
+=======
+  - m_BuildTarget: AndroidPlayer
+    m_APIs: 150000000b000000
+    m_Automatic: 0
+  - m_BuildTarget: iOSSupport
+    m_APIs: 10000000
+    m_Automatic: 1
+  - m_BuildTarget: AppleTVSupport
+    m_APIs: 10000000
+    m_Automatic: 0
+  - m_BuildTarget: WebGLSupport
+    m_APIs: 0b000000
+    m_Automatic: 1
+  m_BuildTargetVRSettings:
+  - m_BuildTarget: Standalone
+    m_Enabled: 0
+    m_Devices:
+    - Oculus
+    - OpenVR
+>>>>>>> 63e10cb4ff0761e5e252914e1eea0a03b574fd2d
   openGLRequireES31: 0
   openGLRequireES31AEP: 0
   openGLRequireES32: 0
@@ -312,6 +426,7 @@ PlayerSettings:
     Android: 1
     iPhone: 1
     tvOS: 1
+<<<<<<< HEAD
   m_BuildTargetGroupLightmapEncodingQuality:
   - m_BuildTarget: Standalone
     m_EncodingQuality: 1
@@ -319,6 +434,9 @@ PlayerSettings:
     m_EncodingQuality: 1
   - m_BuildTarget: PS4
     m_EncodingQuality: 1
+=======
+  m_BuildTargetGroupLightmapEncodingQuality: []
+>>>>>>> 63e10cb4ff0761e5e252914e1eea0a03b574fd2d
   m_BuildTargetGroupLightmapSettings: []
   playModeTestRunnerEnabled: 0
   runPlayModeTestAsEditModeTest: 0
@@ -444,7 +562,11 @@ PlayerSettings:
   switchDataLossConfirmation: 0
   switchUserAccountLockEnabled: 0
   switchSystemResourceMemory: 16777216
+<<<<<<< HEAD
   switchSupportedNpadStyles: 3
+=======
+  switchSupportedNpadStyles: 22
+>>>>>>> 63e10cb4ff0761e5e252914e1eea0a03b574fd2d
   switchNativeFsCacheSize: 32
   switchIsHoldTypeHorizontal: 0
   switchSupportedNpadCount: 8
@@ -472,7 +594,11 @@ PlayerSettings:
   ps4VideoOutPixelFormat: 0
   ps4VideoOutInitialWidth: 1920
   ps4VideoOutBaseModeInitialWidth: 1920
+<<<<<<< HEAD
   ps4VideoOutReprojectionRate: 120
+=======
+  ps4VideoOutReprojectionRate: 60
+>>>>>>> 63e10cb4ff0761e5e252914e1eea0a03b574fd2d
   ps4PronunciationXMLPath: 
   ps4PronunciationSIGPath: 
   ps4BackgroundImagePath: 
@@ -499,7 +625,11 @@ PlayerSettings:
   ps4GarlicHeapSize: 2048
   ps4ProGarlicHeapSize: 2560
   playerPrefsMaxSize: 32768
+<<<<<<< HEAD
   ps4Passcode: 5PN2qmWqBlQ9wQj99nsQzldVI5ZuGXbE
+=======
+  ps4Passcode: frAQBc8Wsa1xVPfvJcrgRYwTiizs2trQ
+>>>>>>> 63e10cb4ff0761e5e252914e1eea0a03b574fd2d
   ps4pnSessions: 1
   ps4pnPresence: 1
   ps4pnFriends: 1
@@ -538,10 +668,17 @@ PlayerSettings:
   splashScreenBackgroundSourcePortrait: {fileID: 0}
   blurSplashScreenBackground: 1
   spritePackerPolicy: 
+<<<<<<< HEAD
   webGLMemorySize: 256
   webGLExceptionSupport: 1
   webGLNameFilesAsHashes: 0
   webGLDataCaching: 0
+=======
+  webGLMemorySize: 16
+  webGLExceptionSupport: 1
+  webGLNameFilesAsHashes: 0
+  webGLDataCaching: 1
+>>>>>>> 63e10cb4ff0761e5e252914e1eea0a03b574fd2d
   webGLDebugSymbols: 0
   webGLEmscriptenArgs: 
   webGLModulesDirectory: 
@@ -566,14 +703,22 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
+<<<<<<< HEAD
   metroPackageName: Udemy_Unity_Course_2
+=======
+  metroPackageName: Template_3D
+>>>>>>> 63e10cb4ff0761e5e252914e1eea0a03b574fd2d
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
+<<<<<<< HEAD
   metroApplicationDescription: Udemy_Unity_Course_2
+=======
+  metroApplicationDescription: Template_3D
+>>>>>>> 63e10cb4ff0761e5e252914e1eea0a03b574fd2d
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -611,7 +756,11 @@ PlayerSettings:
   XboxOneCapability: []
   XboxOneGameRating: {}
   XboxOneIsContentPackage: 0
+<<<<<<< HEAD
   XboxOneEnableGPUVariability: 0
+=======
+  XboxOneEnableGPUVariability: 1
+>>>>>>> 63e10cb4ff0761e5e252914e1eea0a03b574fd2d
   XboxOneSockets: {}
   XboxOneSplashScreen: {fileID: 0}
   XboxOneAllowedProductIds: []
@@ -624,10 +773,13 @@ PlayerSettings:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled:
+<<<<<<< HEAD
     Build: 0
     Collab: 1
     ErrorHub: 0
     Hub: 0
+=======
+>>>>>>> 63e10cb4ff0761e5e252914e1eea0a03b574fd2d
     UNet: 1
   luminIcon:
     m_Name: 
@@ -643,9 +795,17 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   cloudProjectId: 
   framebufferDepthMemorylessMode: 0
+<<<<<<< HEAD
   projectName: Udemy_Unity_Course_2
+=======
+  projectName: 
+>>>>>>> 63e10cb4ff0761e5e252914e1eea0a03b574fd2d
   organizationId: 
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
+<<<<<<< HEAD
   legacyClampBlendShapeWeights: 1
+=======
+  legacyClampBlendShapeWeights: 0
+>>>>>>> 63e10cb4ff0761e5e252914e1eea0a03b574fd2d
