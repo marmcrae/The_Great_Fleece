@@ -85,10 +85,7 @@ NavMeshProjectSettings:
     manualTileSize: 0
     tileSize: 256
     accuratePlacement: 0
-<<<<<<< HEAD
-=======
     debug:
       m_Flags: 0
->>>>>>> 63e10cb4ff0761e5e252914e1eea0a03b574fd2d
   m_SettingNames:
   - Humanoid
