@@ -30,7 +30,6 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
-<<<<<<< HEAD
     "com.unity.recorder": {
       "version": "2.4.0-preview.1",
       "depth": 0,
@@ -40,8 +39,6 @@
       },
       "url": "https://packages.unity.com"
     },
-=======
->>>>>>> 63e10cb4ff0761e5e252914e1eea0a03b574fd2d
     "com.unity.test-framework": {
       "version": "1.1.16",
       "depth": 0,
