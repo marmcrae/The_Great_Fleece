@@ -3,13 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-<<<<<<< HEAD
-  tags:
-  - Audio
-  - Guard1
-=======
+
   tags: []
->>>>>>> 63e10cb4ff0761e5e252914e1eea0a03b574fd2d
   layers:
   - Default
   - TransparentFX
