@@ -3,19 +3,6 @@
 --- !u!159 &1
 EditorSettings:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
-  serializedVersion: 4
-  m_ExternalVersionControlSupport: Visible Meta Files
-  m_SerializationMode: 2
-  m_DefaultBehaviorMode: 0
-  m_SpritePackerMode: 1
-  m_SpritePackerPaddingPower: 1
-  m_ProjectGenerationIncludedExtensions: txt;xml;fnt;cd
-  m_ProjectGenerationRootNamespace: 
-  m_UserGeneratedProjectSuffix: 
-  m_CollabEditorSettings:
-    inProgressEnabled: 1
-=======
   serializedVersion: 9
   m_ExternalVersionControlSupport: Visible Meta Files
   m_SerializationMode: 2
@@ -46,4 +33,3 @@ EditorSettings:
   m_CacheServerNamespacePrefix: default
   m_CacheServerEnableDownload: 1
   m_CacheServerEnableUpload: 1
->>>>>>> 63e10cb4ff0761e5e252914e1eea0a03b574fd2d
