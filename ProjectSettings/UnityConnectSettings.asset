@@ -3,16 +3,6 @@
 --- !u!310 &1
 UnityConnectSettings:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
-  m_Enabled: 0
-  m_TestMode: 0
-  m_TestEventUrl: 
-  m_TestConfigUrl: 
-  m_TestInitMode: 0
-  CrashReportingSettings:
-    m_EventUrl: https://perf-events.cloud.unity3d.com/api/events/crashes
-    m_Enabled: 0
-=======
   serializedVersion: 1
   m_Enabled: 0
   m_TestMode: 0
@@ -24,30 +14,18 @@ UnityConnectSettings:
     m_EventUrl: https://perf-events.cloud.unity3d.com
     m_Enabled: 0
     m_LogBufferSize: 10
->>>>>>> 63e10cb4ff0761e5e252914e1eea0a03b574fd2d
     m_CaptureEditorExceptions: 1
   UnityPurchasingSettings:
     m_Enabled: 0
     m_TestMode: 0
   UnityAnalyticsSettings:
     m_Enabled: 0
-<<<<<<< HEAD
-    m_InitializeOnStartup: 1
-    m_TestMode: 0
-    m_TestEventUrl: 
-    m_TestConfigUrl: 
-=======
     m_TestMode: 0
     m_InitializeOnStartup: 1
->>>>>>> 63e10cb4ff0761e5e252914e1eea0a03b574fd2d
   UnityAdsSettings:
     m_Enabled: 0
     m_InitializeOnStartup: 1
     m_TestMode: 0
-<<<<<<< HEAD
-    m_EnabledPlatforms: 4294967295
-=======
->>>>>>> 63e10cb4ff0761e5e252914e1eea0a03b574fd2d
     m_IosGameId: 
     m_AndroidGameId: 
     m_GameIds: {}
